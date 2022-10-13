@@ -1,4 +1,5 @@
 {
     "python.formatting.provider": "black",
-    "julia.environmentPath": "c:\\Users\\camer\\Downloads"
+    "julia.environmentPath": "c:\\Users\\camer\\Downloads",
+    "python.analysis.typeCheckingMode": "basic"
 }
